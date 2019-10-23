@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/xnebulr/Minecraft-Default-Dark-Mode/releases"><img src="https://img.shields.io/github/v/release/xnebulr/Minecraft-Default-Dark-Mode"></a>
+<a href="https://github.com/xnebulr/Minecraft-Default-Dark-Mode/releases"><img src="https://img.shields.io/github/downloads/xnebulr/Minecraft-Default-Dark-Mode/total"></a>
 </p>
 
 <p align="center">This Resource Pack is a simple dark mode for the UI. It uses all original textures.</p>
