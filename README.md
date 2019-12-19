@@ -7,4 +7,8 @@
 
 <p align="center">This Resource Pack is a simple dark mode / dark theme for the GUI. It uses modified default textures only.</p>
 
+<h3>Downloads</h3>
+<p><a href="https://www.planetminecraft.com/texture_pack/default-dark-mode/">Planet Minecraft</a></p>
+<p><a href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode">Curseforge</a></p>
+
 ![enter image description here](https://media.nebulr.me/files/3c58c3855a2403d6.png)
