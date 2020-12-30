@@ -1,14 +1,15 @@
-<h1 align="center">🌑 Default Dark Mode</h1>
+![example screenshots](https://nblr.cc/8jyb3)
 
-<p align="center">
-<a href="https://github.com/xnebulr/Minecraft-Default-Dark-Mode/releases"><img src="https://img.shields.io/github/v/release/xnebulr/Minecraft-Default-Dark-Mode"></a>
-<a href="https://github.com/xnebulr/Minecraft-Default-Dark-Mode/releases"><img src="https://img.shields.io/github/downloads/xnebulr/Minecraft-Default-Dark-Mode/total"></a>
-</p>
+# Default Dark Mode
+## Resource Pack for Minecraft: Java Edition
 
-<p align="center">This Resource Pack is a simple dark mode / dark theme for the GUI. It uses modified default textures only.</p>
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Release](https://img.shields.io/github/v/release/xnebulr/Minecraft-Default-Dark-Mode?label=Release&color=brightgreen&cacheSeconds=3600)](https://github.com/xnebulr/Minecraft-Default-Dark-Mode/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/xnebulr/Minecraft-Default-Dark-Mode/total?label=Downloads&cacheSeconds=3600)](https://github.com/xnebulr/Minecraft-Default-Dark-Mode/releases)
 
-<h3>Downloads</h3>
-<p><a href="https://www.planetminecraft.com/texture_pack/default-dark-mode/">Planet Minecraft</a></p>
-<p><a href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode">Curseforge</a></p>
+This Resource Pack is a simple dark mode / dark theme for the Minecraft GUI. It uses only modified vanilla textures.
 
-![enter image description here](https://nblr.cc/8jyb3)
+## Downloads
+
+* [Planet Minecraft](https://www.planetminecraft.com/texture_pack/default-dark-mode/)
+* [CurseForge](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode)
