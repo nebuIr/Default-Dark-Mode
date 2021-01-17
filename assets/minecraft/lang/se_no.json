@@ -1,0 +1,15 @@
+{
+    "container.chest": "\u00a77\u00c1rku",
+    "container.inventory": "\u00a77Lohku",
+    "entity.minecraft.horse": "\u00a77Heasta",
+    "entity.minecraft.villager.farmer": "\u00a77Boanda",
+    "entity.minecraft.villager.fisherman": "\u00a77Guollebivdi",
+    "entity.minecraft.villager.librarian": "\u00a77Girjer\u00e1jusbargi",
+    "itemGroup.combat": "\u00a77D\u00e1istaleapmi",
+    "itemGroup.food": "\u00a77Borramu\u0161",
+    "itemGroup.materials": "\u00a77Materi\u00e1lat",
+    "itemGroup.misc": "\u00a77Ie\u0161gu\u0111etl\u00e1gan",
+    "itemGroup.search": "\u00a77Ohcat Di\u014bggat",
+    "itemGroup.tools": "\u00a77Reaiddut",
+    "itemGroup.transportation": "\u00a77Fievrr\u00e1dus"
+}
