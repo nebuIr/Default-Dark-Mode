@@ -1,0 +1,9 @@
+{
+    "container.crafting": "\u00a77Fabricaziun",
+    "entity.minecraft.villager": "\u00a77Viatxaist",
+    "entity.minecraft.villager.farmer": "\u00a77Pour",
+    "entity.minecraft.villager.fisherman": "\u00a77Pes'cheir",
+    "entity.minecraft.villager.librarian": "\u00a77L\u00fcverveu",
+    "entity.minecraft.villager.none": "\u00a77Viatxaist",
+    "entity.minecraft.villager.shepherd": "\u00a77Pastour"
+}

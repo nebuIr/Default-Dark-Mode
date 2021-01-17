@@ -1,0 +1,15 @@
+{
+    "container.chest": "\u00a77Pahu",
+    "container.furnace": "\u00a77Umu",
+    "entity.minecraft.mule": "\u00a77Miula",
+    "entity.minecraft.skeleton_horse": "\u00a77Iwi kanaka lio",
+    "entity.minecraft.villager.farmer": "\u00a77Mahiai",
+    "entity.minecraft.villager.fisherman": "\u00a77Lawai\u02bba",
+    "entity.minecraft.zombie_horse": "\u00a77Huaka\u02bbi p\u014d lio",
+    "merchant.level.1": "\u00a77\u02bbO Novice",
+    "merchant.level.2": "\u00a77Kumu",
+    "merchant.level.3": "\u00a77Hele",
+    "merchant.level.4": "\u00a77Kauka",
+    "merchant.level.5": "\u00a77E ke Kumu",
+    "merchant.trades": "\u00a77K\u0101lepa"
+}
