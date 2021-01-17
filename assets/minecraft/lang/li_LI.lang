@@ -1,0 +1,17 @@
+container.beacon=§7Bake
+container.chest=§7Kis
+container.chestDouble=§7Groate Kis
+container.enchant=§7Betouver
+container.enderchest=§7Enderkis
+container.furnace=§7Aove
+container.inventory=§7Inventaar
+entity.EntityHorse.name=§7Paerd
+entity.Villager.fisherman=§7Vèsjer
+entity.donkey.name=§7Aezel
+entity.horse.name=§7Paerd
+entity.mule.name=§7Moelaezel
+entity.skeletonhorse.name=§7Knoakepaerd
+entity.zombiehorse.name=§7Zombiepaerd
+gui.achievements=§fPrestasies
+item.minecartChest.name=§7Mienkar mit Kis
+itemGroup.redstone=§7Redstone
