@@ -1,0 +1,19 @@
+{
+    "container.barrel": "\u00a77Foosto",
+    "container.blast_furnace": "\u00a77foornada_qarxa",
+    "container.grindstone_title": "\u00a77Dayactir & Nadaafad",
+    "container.inventory": "\u00a77Inventory",
+    "container.loom": "\u00a77Dhar",
+    "container.smoker": "\u00a77Sigaarka",
+    "container.upgrade": "\u00a77Qalabka kor u qaadista",
+    "entity.minecraft.villager.mason": "\u00a77Dhageysiga",
+    "entity.minecraft.villager.toolsmith": "\u00a77Gawaarida",
+    "entity.minecraft.villager.weaponsmith": "\u00a77Hubka",
+    "itemGroup.hotbar": "\u00a77Hotbars keysan\n",
+    "merchant.level.1": "\u00a77Newbie",
+    "merchant.level.2": "\u00a77Kaaliye",
+    "merchant.level.3": "\u00a77Nin farshaxan",
+    "merchant.level.4": "\u00a77Khabiir",
+    "merchant.level.5": "\u00a77Sayid",
+    "merchant.trades": "\u00a77Ganacsiyada"
+}
