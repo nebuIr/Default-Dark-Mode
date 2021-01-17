@@ -1,0 +1,21 @@
+{
+    "container.barrel": "\u00a77Barils",
+    "container.blast_furnace": "\u00a77Blastauhns",
+    "container.cartography_table": "\u00a77Kartjabiu\u00fes",
+    "container.loom": "\u00a77Waibjastols",
+    "container.smoker": "\u00a77Raukja",
+    "container.stonecutter": "\u00a77Stainamaitja",
+    "entity.minecraft.horse": "\u00a77Marhs",
+    "entity.minecraft.villager.cartographer": "\u00a77Kartja",
+    "entity.minecraft.villager.fisherman": "\u00a77Fiskja",
+    "entity.minecraft.villager.librarian": "\u00a77Bokahusja",
+    "entity.minecraft.villager.mason": "\u00a77Timrja",
+    "entity.minecraft.villager.weaponsmith": "\u00a77Wepnasmi\u00feja",
+    "entity.minecraft.wandering_trader": "\u00a77Farands Lewja",
+    "merchant.level.1": "\u00a77Duginnands",
+    "merchant.level.2": "\u00a77Siponeis",
+    "merchant.level.3": "\u00a77Gasin\u00feja",
+    "merchant.level.4": "\u00a77Fro\u00fes",
+    "merchant.level.5": "\u00a77Frauja",
+    "merchant.trades": "\u00a77Kaupa"
+}
