@@ -34,12 +34,12 @@
     "container.hopper": "\u00a77Voorwerp Geutbak",
     "container.inventory": "\u00a77Voorraad",
     "container.lectern": "\u00a77Kateder",
-    "container.loom": "\u00a77Weeftoestel",
+    "container.loom": "\u00a77Weefstoel",
     "container.repair": "\u00a77Herstel en Benoem",
     "container.shulkerBox": "\u00a77Shulker boks",
     "container.smoker": "\u00a77Roker",
     "container.stonecutter": "\u00a77Klipsnyer",
-    "container.upgrade": "\u00a77Toerusting Opgradeering",
+    "container.upgrade": "\u00a77Opgradeer Toerusting",
     "entity.minecraft.chest_minecart": "\u00a77Koekepan met Kis",
     "entity.minecraft.horse": "\u00a77Perd",
     "entity.minecraft.llama": "\u00a77Llama",
@@ -59,8 +59,8 @@
     "entity.minecraft.villager.nitwit": "\u00a77Dwaas",
     "entity.minecraft.villager.none": "\u00a77Dorpenaar",
     "entity.minecraft.villager.shepherd": "\u00a77Skaapwagter",
-    "entity.minecraft.villager.toolsmith": "\u00a77Gereedskapmaker",
-    "entity.minecraft.villager.weaponsmith": "\u00a77Wapenmens",
+    "entity.minecraft.villager.toolsmith": "\u00a77Gereedskapsmid",
+    "entity.minecraft.villager.weaponsmith": "\u00a77Wapensmid",
     "entity.minecraft.wandering_trader": "\u00a77Dwaalhandelaar",
     "entity.minecraft.zombie_horse": "\u00a77Zombie Perd",
     "gui.advancements": "\u00a7fVooruitgangs",
@@ -82,5 +82,5 @@
     "merchant.level.3": "\u00a77Vakman",
     "merchant.level.4": "\u00a77Kenner",
     "merchant.level.5": "\u00a77Meester",
-    "merchant.trades": "\u00a77Ambagte"
+    "merchant.trades": "\u00a77Handelsware"
 }
