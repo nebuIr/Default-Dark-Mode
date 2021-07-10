@@ -1,4 +1,4 @@
-![header](https://nblr.cc/8tren)
+![Header Image](https://i.imgur.com/B6QUUPV.png)
 
 # Default Dark Mode
 ## Resource Pack for Minecraft: Java Edition
@@ -13,21 +13,21 @@ This Resource Pack is a simple dark mode / dark theme for the Minecraft GUI. It 
 
 ## Alternative Downloads
 
-* [Planet Minecraft](https://www.planetminecraft.com/texture_pack/default-dark-mode/)
 * [CurseForge](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode)
+* [Planet Minecraft](https://www.planetminecraft.com/texture_pack/default-dark-mode/)
 
 ## Screenshots
 
-![screenshot](https://nblr.cc/w7hqb)
+![Loading Screen (Optifine Required)](https://i.imgur.com/8Vj5gZA.png)
 
-![screenshot](https://nblr.cc/byr6t)
+![Title Screen](https://i.imgur.com/0Lff7hm.png)
 
-![screenshot](https://nblr.cc/e9qkr)
+![Inventory (Creative)](https://i.imgur.com/zxX9jSZ.png)
 
-![screenshot](https://nblr.cc/uf8jp)
+![Crafting Table](https://i.imgur.com/lvWLw8d.png)
 
-![screenshot](https://nblr.cc/akdp6)
+![Barrel](https://i.imgur.com/sFfUd8F.png)
 
-![screenshot](https://nblr.cc/3xmn4)
+![Blast Furnace](https://i.imgur.com/JtrKvpr.png)
 
-![screenshot](https://nblr.cc/pn9xt)
+![Anvil](https://i.imgur.com/ekJcTKB.png)
