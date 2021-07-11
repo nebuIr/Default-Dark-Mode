@@ -1,0 +1,8 @@
+{
+  "itemGroup.farmersdelight": "\u00a77Farmer's Delight",
+
+  "farmersdelight.container.cooking_pot": "\u00a77Olla",
+  "farmersdelight.container.cooking_pot.served_on": "\u00a77Se sirve en: %s",
+  "farmersdelight.container.basket": "\u00a77Canasta",
+  "farmersdelight.container.pantry": "\u00a77Cabinete"
+}
