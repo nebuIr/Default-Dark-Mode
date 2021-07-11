@@ -1,0 +1,8 @@
+{
+  "_comment": "Recipe Categories",
+  "gui.jei.category.smelting.experience": "\u00a77%s \u00a77XP",
+  "gui.jei.category.fuel.smeltCount.single": "\u00a77התח חפץ אחד",
+  "gui.jei.category.fuel.smeltCount": "\u00a77התח %s \u00a77חפצים",
+  "gui.jei.category.brewing.steps": "\u00a77צעדים: %s",
+  "gui.jei.category.itemInformation": "\u00a77תיאור"
+}
