@@ -1,0 +1,10 @@
+{
+  "itemGroup.farmersdelight": "\u00a77Farmer's Delight",
+
+  "farmersdelight.container.cooking_pot": "\u00a77Kochtopf",
+  "farmersdelight.container.cooking_pot.served_on": "\u00a77Serviert auf: %s",
+  "farmersdelight.container.cooking_pot.not_heated": "\u00a77Benötigt Hitze von unten.",
+  "farmersdelight.container.cooking_pot.heated": "\u00a77Erhitzt",
+  "farmersdelight.container.basket": "\u00a77Korb",
+  "farmersdelight.container.pantry": "\u00a77Holzküchenschrank"
+}
