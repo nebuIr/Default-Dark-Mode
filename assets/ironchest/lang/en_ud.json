@@ -1,0 +1,14 @@
+{
+    "_comment": "Containers",
+    "ironchest.container.iron_chest": "\u00a77\u0287s\u01DD\u0265\u0186 uo\u0279I",
+    "ironchest.container.gold_chest": "\u00a77\u0287s\u01DD\u0265\u0186 p\u05DFo\u2141",
+    "ironchest.container.diamond_chest": "\u00a77\u0287s\u01DD\u0265\u0186 puo\u026F\u0250\u0131\u15E1",
+    "ironchest.container.copper_chest": "\u00a77\u0287s\u01DD\u0265\u0186 \u0279\u01DDddo\u0186",
+    "ironchest.container.silver_chest": "\u00a77\u0287s\u01DD\u0265\u0186 \u0279\u01DD\u028C\u05DF\u0131S",
+    "ironchest.container.crystal_chest": "\u00a77\u0287s\u01DD\u0265\u0186 \u05DF\u0250\u0287s\u028E\u0279\u0186",
+    "ironchest.container.obsidian_chest": "\u00a77\u0287s\u01DD\u0265\u0186 u\u0250\u0131p\u0131sqO",
+    "ironchest.container.dirt_chest": "\u00a77\u00A10006 \u0287s\u01DD\u0265\u0186\u0287\u0279\u0131\u15E1",
+
+    "_comment": "Item Groups",
+    "itemGroup.ironchest": "\u00a77s\u0287s\u01DD\u0265\u0186 uo\u0279I"
+}
