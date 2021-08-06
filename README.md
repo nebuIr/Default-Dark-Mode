@@ -28,6 +28,7 @@ Want support for a specific mod? Create an issue and submit a feature request [h
 | Farmer's Delight [Fabric] |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
 | Iron Chests               |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
 | JustEnoughItems           |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
+| Tinkers' Construct        |  ❌   |    ✅    |      ❌      |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
 
 ## Screenshots
 
