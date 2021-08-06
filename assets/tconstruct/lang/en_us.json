@@ -1,0 +1,92 @@
+{
+  "_comment": "Tinkers Tables",
+  "block.tconstruct.crafting_station": "\u00a77Crafting Station",
+
+  "block.tconstruct.tinker_station": "\u00a77Tinker Station",
+  "block.tconstruct.tinkers_anvil": "\u00a77Tinker's Anvil",
+  "block.tconstruct.scorched_anvil": "\u00a77Tinker's Anvil",
+
+  "block.tconstruct.part_builder": "\u00a77Part Builder",
+
+  "block.tconstruct.part_chest": "\u00a77Part Chest",
+
+  "block.tconstruct.modifier_chest": "\u00a77Modifier Chest",
+
+  "block.tconstruct.cast_chest": "\u00a77Cast Chest",
+
+
+  "_comment": "Smeltery shared",
+  "gui.tconstruct.duct": "\u00a77Duct",
+
+
+  "_comment": "Tinkers Smeltery",
+  "gui.tconstruct.melter": "\u00a77Melter",
+  "gui.tconstruct.melting.capacity": "\u00a77Capacity:",
+  "gui.tconstruct.melting.available": "\u00a77Free:",
+  "gui.tconstruct.melting.used": "\u00a77Used:",
+
+  "gui.tconstruct.heater": "\u00a77Heater",
+
+  "gui.tconstruct.smeltery": "\u00a77Smeltery",
+
+
+  "_comment": "Tinkers Foundry",
+  "gui.tconstruct.alloyer": "\u00a77Alloyer",
+
+  "gui.tconstruct.foundry": "\u00a77Foundry",
+
+
+  "gui.tconstruct.fluid.kilobucket": "\u00a77%s kb",
+  "gui.tconstruct.fluid.bucket": "\u00a77%s b",
+  "gui.tconstruct.fluid.millibucket": "\u00a77%s mb",
+  "gui.tconstruct.fluid.ingot": "\u00a77%s Ingots",
+  "gui.tconstruct.fluid.nugget": "\u00a77%s Nuggets",
+  "gui.tconstruct.fluid.block": "\u00a77%s Blocks",
+  "gui.tconstruct.fluid.pane": "\u00a77%s Panes",
+  "gui.tconstruct.fluid.gem": "\u00a77%s Gems",
+  "gui.tconstruct.fluid.slimeball": "\u00a77%s Slimeballs",
+
+
+  "_comment": "GUIs",
+  "itemGroup.tconstruct.general": "\u00a77Tinkers' General Items",
+  "itemGroup.tconstruct.tools": "\u00a77Tinkers' Tools",
+  "itemGroup.tconstruct.tool_parts": "\u00a77Tinkers' Toolparts",
+  "itemGroup.tconstruct.smeltery": "\u00a77Tinkers' Smeltery",
+  "itemGroup.tconstruct.world": "\u00a77Tinkers' World",
+  "itemGroup.tconstruct.gadgets": "\u00a77Tinkers' Gadgets",
+
+  "gui.tconstruct.crafting_station": "\u00a77Crafting Station",
+
+  "gui.tconstruct.part_builder": "\u00a77Part Builder",
+  "gui.tconstruct.part_builder.trait": "\u00a77Trait",
+  "gui.tconstruct.part_builder.uncraftable": "\u00a77Cannot shape",
+
+  "gui.tconstruct.modifier_chest": "\u00a77Modifier Chest",
+  "gui.tconstruct.cast_chest": "\u00a77Cast Chest",
+  "gui.tconstruct.part_chest": "\u00a77Part Chest",
+
+  "gui.tconstruct.tinker_station": "\u00a77Tinker Station",
+  "gui.tconstruct.tinker_station.repair": "\u00a77Repair & Modify",
+  "gui.tconstruct.tinker_station.modifiers": "\u00a77Modifiers",
+  "gui.tconstruct.tinker_station.upgrades": "\u00a77Upgrades & Abilities",
+  "gui.tconstruct.tinker_station.traits": "\u00a77Traits",
+  "gui.tconstruct.tinker_station.components": "\u00a77Components",
+  "gui.tconstruct.tinker_station.no_traits": "\u00a77None :[",
+
+
+  "_comment": "JEI Strings",
+  "jei.tconstruct.time": "\u00a77%s \u00a77s",
+  "jei.tconstruct.temperature": "\u00a77%s\u00a77°C",
+
+  "jei.tconstruct.melting.multiplier": "\u00a77Speed multiplier: %s\u00a77x",
+  "jei.tconstruct.melting.time": "\u00a77Melting time: %s \u00a77s",
+  "jei.tconstruct.melting.smeltery": "\u00a77In smeltery:",
+  "jei.tconstruct.melting.melter": "\u00a77In melter:",
+
+  "jei.tconstruct.entity_melting.per_hearts": "\u00a77Per %s \u00a77Hearts Damage",
+  "jei.tconstruct.entity_melting.per_heart": "\u00a77Per 1.0 Heart Damage",
+
+  "jei.tconstruct.modifiers.max": "\u00a77Max: ",
+
+  "jei.tconstruct.part_builder.cost": "\u00a77Cost: %s"
+}
