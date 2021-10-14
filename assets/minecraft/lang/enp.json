@@ -61,7 +61,7 @@
     "entity.minecraft.villager.shepherd": "\u00a77Shepherd",
     "entity.minecraft.villager.toolsmith": "\u00a77Toolsmith",
     "entity.minecraft.villager.weaponsmith": "\u00a77Weaponsmith",
-    "entity.minecraft.wandering_trader": "\u00a77Wandering Trader",
+    "entity.minecraft.wandering_trader": "\u00a77Wandering Chapman",
     "entity.minecraft.zombie_horse": "\u00a77Undead Horse",
     "gui.advancements": "\u00a7fForthsteps",
     "itemGroup.brewing": "\u00a77Brewing",
@@ -82,5 +82,5 @@
     "merchant.level.3": "\u00a77Fareman",
     "merchant.level.4": "\u00a77Cunningman",
     "merchant.level.5": "\u00a77Cunninglord",
-    "merchant.trades": "\u00a77Trades"
+    "merchant.trades": "\u00a77Wrixles"
 }

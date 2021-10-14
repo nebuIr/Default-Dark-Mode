@@ -33,7 +33,7 @@
     "container.grindstone_title": "\u00a77\u4fee\u8207\u795b",
     "container.hopper": "\u00a77\u6f0f\u6597",
     "container.inventory": "\u00a77\u884c\u56ca",
-    "container.lectern": "\u00a77\u8b1b\u81fa",
+    "container.lectern": "\u00a77\u66f8\u6aaf",
     "container.loom": "\u00a77\u6a5f\u677c",
     "container.repair": "\u00a77\u4fee\u8207\u540d",
     "container.shulkerBox": "\u00a77\u8d06\u6add",
@@ -82,5 +82,5 @@
     "merchant.level.3": "\u00a77\u624b\u719f",
     "merchant.level.4": "\u00a77\u5320\u4eba",
     "merchant.level.5": "\u00a77\u5de8\u64d8",
-    "merchant.trades": "\u00a77\u5e02"
+    "merchant.trades": "\u00a77\u5546\u8cc8"
 }
