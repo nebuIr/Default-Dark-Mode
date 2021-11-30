@@ -1,0 +1,23 @@
+{
+  "itemGroup.expandedstorage": "\u00a77Расширенное хранилище",
+  "container.expandedstorage.generic_double": "\u00a77Большой %s",
+  "block.expandedstorage.iron_barrel": "\u00a77Железная бочка",
+  "block.expandedstorage.gold_barrel": "\u00a77Золотая бочка",
+  "block.expandedstorage.diamond_barrel": "\u00a77Алмазная бочка",
+  "block.expandedstorage.obsidian_barrel": "\u00a77Обсидиановая бочка",
+  "block.expandedstorage.netherite_barrel": "\u00a77Незеритовая бочка",
+  "block.expandedstorage.wood_chest": "\u00a77Деревянный сундук",
+  "block.expandedstorage.pumpkin_chest": "\u00a77Тыквенный сундук",
+  "block.expandedstorage.christmas_chest": "\u00a77Рождественский сундук",
+  "block.expandedstorage.iron_chest": "\u00a77Железный сундук",
+  "block.expandedstorage.gold_chest": "\u00a77Золотой сундук",
+  "block.expandedstorage.diamond_chest": "\u00a77Алмазный сундук",
+  "block.expandedstorage.obsidian_chest": "\u00a77Обсидиановый сундук",
+  "block.expandedstorage.netherite_chest": "\u00a77Незеритовый сундук",
+  "block.expandedstorage.old_diamond_chest": "\u00a77Старый алмазный сундук",
+  "block.expandedstorage.old_gold_chest": "\u00a77Старый золотой сундук",
+  "block.expandedstorage.old_iron_chest": "\u00a77Старый железный сундук",
+  "block.expandedstorage.old_netherite_chest": "\u00a77Старый незеритовый сундук",
+  "block.expandedstorage.old_obsidian_chest": "\u00a77Старый обсидиановый сундук",
+  "block.expandedstorage.old_wood_chest": "\u00a77Старый деревянный сундук"
+}

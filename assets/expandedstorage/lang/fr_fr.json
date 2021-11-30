@@ -1,0 +1,23 @@
+{
+  "itemGroup.expandedstorage": "\u00a77Expanded Storage",
+  "container.expandedstorage.generic_double": "\u00a77Grand %s",
+  "block.expandedstorage.iron_barrel": "\u00a77Tonneau de Fer",
+  "block.expandedstorage.gold_barrel": "\u00a77Tonneau en Or",
+  "block.expandedstorage.diamond_barrel": "\u00a77Tonneau en Diamant",
+  "block.expandedstorage.obsidian_barrel": "\u00a77Tonneau en Obsidienne",
+  "block.expandedstorage.netherite_barrel": "\u00a77Tonneau en Netherite",
+  "block.expandedstorage.wood_chest": "\u00a77Coffre",
+  "block.expandedstorage.pumpkin_chest": "\u00a77Coffre Citrouille",
+  "block.expandedstorage.christmas_chest": "\u00a77Coffre de Nöel",
+  "block.expandedstorage.iron_chest": "\u00a77Coffre en Fer",
+  "block.expandedstorage.gold_chest": "\u00a77Coffre en Or",
+  "block.expandedstorage.diamond_chest": "\u00a77Coffre en Diamant",
+  "block.expandedstorage.obsidian_chest": "\u00a77Coffre en Obsidienne",
+  "block.expandedstorage.netherite_chest": "\u00a77Coffre en Netherite",
+  "block.expandedstorage.old_diamond_chest": "\u00a77Ancien Coffre en Diamant",
+  "block.expandedstorage.old_gold_chest": "\u00a77Ancien Coffre en Or",
+  "block.expandedstorage.old_iron_chest": "\u00a77Ancien Coffre en Fer",
+  "block.expandedstorage.old_netherite_chest": "\u00a77Ancien Coffre en Netherite",
+  "block.expandedstorage.old_obsidian_chest": "\u00a77Ancien Coffre en Obsidienne",
+  "block.expandedstorage.old_wood_chest": "\u00a77Ancien Coffre"
+}
