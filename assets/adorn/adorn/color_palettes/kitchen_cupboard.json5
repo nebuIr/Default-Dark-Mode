@@ -1,0 +1,24 @@
+{
+  "adorn:oak_kitchen_cupboard": "#4F4F4F",
+  "adorn:spruce_kitchen_cupboard": "#4F4F4F",
+  "adorn:birch_kitchen_cupboard": "#4F4F4F",
+  "adorn:jungle_kitchen_cupboard": "#4F4F4F",
+  "adorn:acacia_kitchen_cupboard": "#4F4F4F",
+  "adorn:dark_oak_kitchen_cupboard": "#4F4F4F",
+  "adorn:crimson_kitchen_cupboard": "#4F4F4F",
+  "adorn:warped_kitchen_cupboard": "#4F4F4F",
+
+  "adorn:terrestria/cypress_kitchen_cupboard": "#4F4F4F",
+  "adorn:terrestria/hemlock_kitchen_cupboard": "#4F4F4F",
+  "adorn:terrestria/japanese_maple_kitchen_cupboard": "#4F4F4F",
+  "adorn:terrestria/rainbow_eucalyptus_kitchen_cupboard": "#4F4F4F",
+  "adorn:terrestria/redwood_kitchen_cupboard": "#4F4F4F",
+  "adorn:terrestria/rubber_kitchen_cupboard": "#4F4F4F",
+  "adorn:terrestria/sakura_kitchen_cupboard": "#4F4F4F",
+  "adorn:terrestria/willow_kitchen_cupboard": "#4F4F4F",
+
+  "adorn:traverse/fir_kitchen_cupboard": "#4F4F4F",
+
+  // The default color is the oak color
+  "adorn:default": "#4F4F4F"
+}

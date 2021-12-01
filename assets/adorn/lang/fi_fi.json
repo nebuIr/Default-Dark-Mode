@@ -1,0 +1,21 @@
+{
+  "block.adorn.oak_kitchen_cupboard": "\u00a77Tammikaappi",
+  "block.adorn.spruce_kitchen_cupboard": "\u00a77Kuusikaappi",
+  "block.adorn.birch_kitchen_cupboard": "\u00a77Koivukaappi",
+  "block.adorn.jungle_kitchen_cupboard": "\u00a77Viidakkopuukaappi",
+  "block.adorn.acacia_kitchen_cupboard": "\u00a77Akaasiakaappi",
+  "block.adorn.dark_oak_kitchen_cupboard": "\u00a77Tumma tammikaappi",
+  "block.adorn.woods_and_mires.pine_kitchen_cupboard": "\u00a77Mäntykaappi",
+
+  "block.adorn.oak_drawer": "\u00a77Tammilipasto",
+  "block.adorn.spruce_drawer": "\u00a77Kuusilipasto",
+  "block.adorn.birch_drawer": "\u00a77Koivulipasto",
+  "block.adorn.jungle_drawer": "\u00a77Viidakkopuulipasto",
+  "block.adorn.acacia_drawer": "\u00a77Akaasialipasto",
+  "block.adorn.dark_oak_drawer": "\u00a77Tumma tammilipasto",
+  "block.adorn.woods_and_mires.pine_drawer": "\u00a77Mäntylipasto",
+
+  "block.adorn.trading_station": "\u00a77Kauppapöytä",
+  "block.adorn.trading_station.selling": "\u00a77Myydään",
+  "block.adorn.trading_station.price": "\u00a77Hinta"
+}

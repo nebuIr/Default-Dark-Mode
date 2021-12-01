@@ -1,0 +1,19 @@
+{
+  "block.adorn.oak_kitchen_cupboard": "\u00a77Eichen Küchenschrank",
+  "block.adorn.spruce_kitchen_cupboard": "\u00a77Fichten Küchenschrank",
+  "block.adorn.birch_kitchen_cupboard": "\u00a77Birken Küchenschrank",
+  "block.adorn.jungle_kitchen_cupboard": "\u00a77Tropen Küchenschrank",
+  "block.adorn.acacia_kitchen_cupboard": "\u00a77Akazien Küchenschrank",
+  "block.adorn.dark_oak_kitchen_cupboard": "\u00a77Schwarzeichen Küchenschrank",
+
+  "block.adorn.oak_drawer": "\u00a77Eichen Schublade",
+  "block.adorn.spruce_drawer": "\u00a77Fichten Schublade",
+  "block.adorn.birch_drawer": "\u00a77Birken Schublade",
+  "block.adorn.jungle_drawer": "\u00a77Tropen Schublade",
+  "block.adorn.acacia_drawer": "\u00a77Akazien Schublade",
+  "block.adorn.dark_oak_drawer": "\u00a77Schwarzeichen Schublade",
+
+  "block.adorn.trading_station": "\u00a77Handelsstation",
+  "block.adorn.trading_station.selling": "\u00a77Verkaufen",
+  "block.adorn.trading_station.price": "\u00a77Preis"
+}

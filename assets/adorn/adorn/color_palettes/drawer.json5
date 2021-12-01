@@ -1,0 +1,24 @@
+{
+  "adorn:oak_drawer": "#4F4F4F",
+  "adorn:spruce_drawer": "#4F4F4F",
+  "adorn:birch_drawer": "#4F4F4F",
+  "adorn:jungle_drawer": "#4F4F4F",
+  "adorn:acacia_drawer": "#4F4F4F",
+  "adorn:dark_oak_drawer": "#4F4F4F",
+  "adorn:crimson_drawer": "#4F4F4F",
+  "adorn:warped_drawer": "#4F4F4F",
+
+  "adorn:terrestria/cypress_drawer": "#4F4F4F",
+  "adorn:terrestria/hemlock_drawer": "#4F4F4F",
+  "adorn:terrestria/japanese_maple_drawer": "#4F4F4F",
+  "adorn:terrestria/rainbow_eucalyptus_drawer": "#4F4F4F",
+  "adorn:terrestria/redwood_drawer": "#4F4F4F",
+  "adorn:terrestria/rubber_drawer": "#4F4F4F",
+  "adorn:terrestria/sakura_drawer": "#4F4F4F",
+  "adorn:terrestria/willow_drawer": "#4F4F4F",
+
+  "adorn:traverse/fir_drawer": "#4F4F4F",
+
+  // The default color is the oak color
+  "adorn:default": "#4F4F4F"
+}
