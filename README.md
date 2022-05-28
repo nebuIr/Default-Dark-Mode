@@ -20,7 +20,7 @@ This Resource Pack is a simple dark mode / dark theme for the Minecraft GUI. It 
 
 Want support for a specific mod? Create an issue and submit a feature request [here](https://github.com/xnebulr/Minecraft-Default-Dark-Mode/issues).
 
-| Mod                       | 1.17 | 1.16.2+ | 1.16/1.16.1 | 1.15 | 1.14 | 1.13 | 1.12 | 1.11 | 1.10 | 1.9 | 1.8 | 1.7 | 1.6 |
+| Mod                       | 1.19 | 1.18 | 1.17 | 1.16/1.16.1 | 1.15 | 1.14 | 1.13 | 1.12 | 1.11 | 1.10 | 1.9 | 1.8 | 1.7 |
 |---------------------------|:----:|:-------:|:-----------:|:----:|:----:|:----:|:----:|:----:|:----:|:---:|:---:|:---:|:---:|
 | Cloth Config API          |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
 | Fabric                    |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
@@ -28,7 +28,7 @@ Want support for a specific mod? Create an issue and submit a feature request [h
 | Farmer's Delight [Fabric] |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
 | Iron Chests               |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
 | JustEnoughItems           |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
-| Trinkets                  |  ✅   |    ✅    |      ❌      |  ✅   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
+| Trinkets                  |  ✅   |    ❌    |      ❌      |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌   |  ❌  |  ❌  |  ❌  |  ❌  |
 
 ## Screenshots
 
