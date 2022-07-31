@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       
       - name: 📦 Install oxipng
         uses: baptiste0928/cargo-install@v1
@@ -25,6 +27,7 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v23.2
         with:
+          since_last_remote_commit: "true"
           files: '**/*.png'
 
       - name: ⚡ Optimize PNG files
