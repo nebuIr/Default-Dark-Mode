@@ -1,2 +1,27 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+*                 text=auto
+
+# Source code
+*.json            text
+*.json5           text
+*.lang            text
+*.properties      text
+
+# Documentation
+*.md              text diff=markdown
+*.txt             text
+license           text
+LICENSE           text
+readme            text
+README            text
+
+# Configs
+.gitattributes    text
+.gitconfig        text
+*.yaml            text
+*.yml             text
+
+# Graphics
+*.jpg             binary
+*.jpeg            binary
+*.png             binary
