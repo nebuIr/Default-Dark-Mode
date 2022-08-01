@@ -1,0 +1,64 @@
+name: Mod Support Request
+description: Request support for a specific mod
+title: "[Mod Support Request] EXAMPLE_MOD"
+labels: ["mod-support"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting this mod support request, please make sure that your mod has not already been requested in another issue.
+
+  - type: input
+    id: url
+    attributes:
+      label: Link to the mod page
+      description: Please provide a URL to the mod page.
+      placeholder: "Example: https://www.curseforge.com/minecraft/texture-packs/default-dark-mode"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: versions
+    attributes:
+      label: Game versions
+      description: What game versions should be supported? Select all applicable game versions.
+      multiple: true
+      options:
+        - 1.19
+        - 1.18
+        - 1.17
+        - 1.16
+        - 1.15
+        - 1.14
+        - 1.13
+        - 1.12
+        - 1.11
+        - 1.10
+        - 1.9
+        - 1.8
+        - 1.7
+        - 1.6
+    validations:
+      required: true
+
+  - type: dropdown
+    id: modloaders
+    attributes:
+      label: Modloaders
+      description: What modloader is the mod using? Select all applicable modloaders.
+      multiple: true
+      options:
+        - No modloader
+        - Forge
+        - Fabric
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Add any other context or screenshots about the mod support request below.
+    validations:
+      required: false
