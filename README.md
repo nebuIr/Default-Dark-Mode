@@ -1,14 +1,33 @@
-# Default Dark Mode
+<p align="center">
+    <img src="pack.png" />
+    <h1 align="center">Default Dark Mode</h1>
+    <h2 align="center">The Dark Mode Resource Pack for Minecraft: Java Edition</h2>
+</p>
 
-## A Dark Mode Resource Pack for Minecraft: Java Edition
+<p align="center">
+    <a aria-label="Actions" href="https://github.com/nebuIr/Default-Dark-Mode/actions">
+        <img src="https://img.shields.io/github/workflow/status/nebuIr/Default-Dark-Mode/%E2%9A%A1%20Optimize%20PNG%20files">
+    </a>
+    <a aria-label="Release" href="https://github.com/nebuIr/Default-Dark-Mode/releases/latest">
+        <img alt="" src="https://img.shields.io/github/v/release/nebuIr/Default-Dark-Mode">
+    </a>
+    <a aria-label="License" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-brightgreen.svg">
+    </a>
+    <a aria-label="GitHub Downloads" href="https://github.com/nebuIr/Default-Dark-Mode/releases">
+        <img alt="" src="https://img.shields.io/github/downloads/nebuIr/Default-Dark-Mode/total?logo=github">
+    </a>
+    <a aria-label="CurseForge Downloads" href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode/files">
+        <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/curseforge">
+    </a>
+    <a aria-label="Planet Minecraft Downloads" href="https://www.planetminecraft.com/texture-pack/default-dark-mode">
+        <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/planetminecraft">
+    </a>
+</p>
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Release](https://img.shields.io/github/v/release/nebuIr/Default-Dark-Mode?label=Release&color=brightgreen&cacheSeconds=3600)](https://github.com/nebuIr/Default-Dark-Mode/releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/nebuIr/Default-Dark-Mode/total?label=Downloads&logo=github&cacheSeconds=3600)](https://github.com/nebuIr/Default-Dark-Mode/releases)
-[![CurseForge Downloads](https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/curseforge)](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode/files)
-[![Planet Minecraft Downloads](https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/planetminecraft)](https://www.planetminecraft.com/texture-pack/default-dark-mode)
-
-This Resource Pack is a simple dark mode / dark theme for the Minecraft GUI. It uses only modified vanilla textures.
+<p align="center">
+    Default Dark Mode gives the Minecraft GUI a darker look while maintaining the vanilla textures.
+</p>
 
 ![Banner](https://i.imgur.com/p9lNs6l.png)
 
@@ -17,6 +36,12 @@ This Resource Pack is a simple dark mode / dark theme for the Minecraft GUI. It 
 All versions can be downloaded from the [GitHub Releases page](https://github.com/nebuIr/Default-Dark-Mode/releases).
 
 This Resource Pack is also available for download on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) & [Planet Minecraft](https://www.planetminecraft.com/texture_pack/default-dark-mode/).
+
+## Compatibility
+
+Minecraft: Java Edition **1.6 to 1.19** are supported.
+
+*Optional:* [Optifine](https://optifine.net/) is required in order for the loading screen to change colors.
 
 ## Mod Support
 
