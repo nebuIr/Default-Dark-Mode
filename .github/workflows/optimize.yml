@@ -31,7 +31,7 @@ jobs:
           files: '**/*.png'
 
       - name: ⚡ Optimize PNG files
-        run: oxipng -sZ -o 3 -i 0 ${{ steps.changed-files.outputs.all_changed_files }}
+        run: oxipng -sZ -o 3 -i 0 --ng ${{ steps.changed-files.outputs.all_changed_files }}
       
       - name : 🧾 Get optimized PNG files
         id: optimized-files
