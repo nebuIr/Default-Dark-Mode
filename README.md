@@ -1,10 +1,10 @@
-<center>
+<p align="center">
     <img src="pack.png" />
-    <h1>Default Dark Mode</h1>
-    <h2>The Dark Mode Resource Pack for Minecraft: Java Edition</h2>
-</center>
+    <h1 align="center">Default Dark Mode</h1>
+    <h2 align="center">The Dark Mode Resource Pack for Minecraft: Java Edition</h2>
+</p>
 
-<center>
+<p align="center">
     <a aria-label="build" href="https://github.com/nebuIr/Default-Dark-Mode/actions">
         <img src="https://img.shields.io/github/workflow/status/nebuIr/Default-Dark-Mode/%E2%9A%A1%20Optimize%20PNG%20files">
     </a>
@@ -23,11 +23,11 @@
     <a aria-label="planet minecraft downloads" href="https://www.planetminecraft.com/texture-pack/default-dark-mode">
         <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/planetminecraft">
     </a>
-</center>
+</p>
 
-<center>
+<p align="center">
     Default Dark Mode gives the Minecraft GUI a darker look while maintaining the vanilla textures.
-</center>
+</p>
 
 ![Banner](https://i.imgur.com/p9lNs6l.png)
 
