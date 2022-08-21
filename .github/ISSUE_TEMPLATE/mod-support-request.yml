@@ -1,12 +1,14 @@
 name: Mod Support Request
 description: Request support for a specific mod
-title: "[Mod Support Request] EXAMPLE_MOD"
+title: "[Mod Support Request] EXAMPLE MOD"
 labels: ["mod-support"]
 body:
   - type: markdown
     attributes:
       value: |
         Before submitting this mod support request, please make sure that your mod has not already been requested in another issue.
+        
+        If you have multiple mods that you would like to request support for, please submit a **separate issue** for each mod.
 
   - type: input
     id: url
@@ -59,6 +61,6 @@ body:
     id: description
     attributes:
       label: Description
-      description: Add any other context or screenshots about the mod support request below.
+      description: Add any other context or screenshots about the requested mod below.
     validations:
       required: false
