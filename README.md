@@ -56,6 +56,7 @@ Before submitting a mod support request, please make sure that your mod has not 
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
+| [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets)  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 
