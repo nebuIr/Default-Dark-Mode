@@ -35,7 +35,7 @@
 
 All versions can be downloaded from the [GitHub Releases page](https://github.com/nebuIr/Default-Dark-Mode/releases).
 
-This resource pack is also available for download on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) & [Planet Minecraft](https://www.planetminecraft.com/texture_pack/default-dark-mode/).
+This resource pack is also available on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode), [Modrinth](https://modrinth.com/resourcepack/default-dark-mode) & [Planet Minecraft](https://www.planetminecraft.com/texture_pack/default-dark-mode).
 
 ## Compatibility
 
