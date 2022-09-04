@@ -10,12 +10,20 @@ body:
         
         If you have multiple mods that you would like to request support for, please submit a **separate issue** for each mod.
 
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Add any context or screenshots about the requested mod below.
+    validations:
+      required: false
+
   - type: input
     id: url
     attributes:
       label: Link to the mod page
       description: Please provide a URL to the mod page.
-      placeholder: "Example: https://www.curseforge.com/minecraft/texture-packs/default-dark-mode"
+      placeholder: "Example: https://modrinth.com/resourcepack/default-dark-mode"
     validations:
       required: true
 
@@ -50,17 +58,9 @@ body:
       description: What modloader is the mod using? Select all applicable modloaders.
       multiple: true
       options:
-        - No modloader
-        - Forge
         - Fabric
+        - Forge
+        - Quilt
         - Other
     validations:
       required: true
-
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Add any other context or screenshots about the requested mod below.
-    validations:
-      required: false
