@@ -1,7 +1,7 @@
 name: Mod Support Request
 description: Request support for a specific mod
 title: "[Mod Support Request] EXAMPLE MOD"
-labels: ["mod-support"]
+labels: ["🧩 mod-support"]
 body:
   - type: markdown
     attributes:
