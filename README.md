@@ -61,6 +61,7 @@ Before submitting a mod support request, please make sure that your mod has not 
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
+| [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercing-paxels)  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets)  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 
