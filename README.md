@@ -54,6 +54,7 @@ The following mods are supported:
 | [Bedrockify](https://www.curseforge.com/minecraft/mc-mods/bedrockify)                                           |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)                                                     |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                                   |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Creative Library](https://www.curseforge.com/minecraft/mc-mods/creative-library)                               |  ❌  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage)                                       |  ❌  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Fabric](https://fabricmc.net/)                                                                                 |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)                                |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
