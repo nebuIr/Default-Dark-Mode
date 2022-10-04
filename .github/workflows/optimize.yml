@@ -3,7 +3,7 @@ name: ⚡ Optimize PNG files
 on:
   push:
     branches:
-      - mc/*
+      - [0-9].[0-9]+**
     paths:
       - '**/*.png'
 
