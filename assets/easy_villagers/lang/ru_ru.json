@@ -1,0 +1,11 @@
+{
+  "block.easy_villagers.auto_trader": "\u00a77Автоторговец",
+  "gui.easy_villagers.food_items": "\u00a77Еда предметы",
+  "gui.easy_villagers.output_items": "\u00a77Вывод",
+  "gui.easy_villagers.input_villagers": "\u00a77Житель для ввода",
+  "gui.easy_villagers.output_villagers": "\u00a77Житель для вывода",
+  "gui.easy_villagers.input": "\u00a77Предмет для ввода",
+  "gui.easy_villagers.output": "\u00a77Предмет для вывода",
+  "itemGroup.easy_villagers": "\u00a77Easy villagers",
+  "category.easy_villagers": "\u00a77Easy villagers"
+}

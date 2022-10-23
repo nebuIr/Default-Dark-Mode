@@ -1,0 +1,11 @@
+{
+  "block.easy_villagers.auto_trader": "\u00a77자동 상인",
+  "gui.easy_villagers.food_items": "\u00a77음식",
+  "gui.easy_villagers.output_items": "\u00a77완료",
+  "gui.easy_villagers.input_villagers": "\u00a77아이템 투입구",
+  "gui.easy_villagers.output_villagers": "\u00a77완료",
+  "gui.easy_villagers.input": "\u00a77거래 아이템 투입구",
+  "gui.easy_villagers.output": "\u00a77완료",
+  "itemGroup.easy_villagers": "\u00a77쉬운 주민들",
+  "category.easy_villagers": "\u00a77쉬운 마을 사람들"
+}

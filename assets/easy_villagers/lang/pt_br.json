@@ -1,0 +1,11 @@
+{
+  "block.easy_villagers.auto_trader": "\u00a77Bloco de Comercio Automatico",
+  "gui.easy_villagers.food_items": "\u00a77Itens Alimentares",
+  "gui.easy_villagers.output_items": "\u00a77Saída",
+  "gui.easy_villagers.input_villagers": "\u00a77Entrada de Aldeão",
+  "gui.easy_villagers.output_villagers": "\u00a77Saída de Aldeão",
+  "gui.easy_villagers.input": "\u00a77Entrada de Itens",
+  "gui.easy_villagers.output": "\u00a77Saída de Itens",
+  "itemGroup.easy_villagers": "\u00a77Easy Villagers",
+  "category.easy_villagers": "\u00a77Easy Villagers"
+}
