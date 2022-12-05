@@ -45,7 +45,7 @@ Minecraft: Java Edition **1.6 to 1.19** are supported.
 
 ## Mod Support
 
-The following mods are supported:
+The following mods are supported (versions for Fabric & Forge should both work):
 
 | Mod                                                                                                             | 1.19 | 1.18 | 1.17 | 1.16 | 1.15 | 1.14 | 1.13 | 1.12 | 1.11 and older |
 | :-------------------------------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :------------: |
