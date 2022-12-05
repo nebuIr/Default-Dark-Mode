@@ -66,6 +66,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)                                                 |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercing-paxels)                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)                                             |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)                          |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets)                                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 
 Want support for a specific mod? Create an issue and submit a mod support request [here](https://github.com/nebuIr/Default-Dark-Mode/issues/new/choose).\
