@@ -45,7 +45,7 @@ Minecraft: Java Edition **1.6 to 1.19** are supported.
 
 ## Mod Support
 
-The following mods are supported:
+The following mods are supported (versions for Fabric & Forge should both work):
 
 | Mod                                                                                                             | 1.19 | 1.18 | 1.17 | 1.16 | 1.15 | 1.14 | 1.13 | 1.12 | 1.11 and older |
 | :-------------------------------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :------------: |
@@ -66,6 +66,7 @@ The following mods are supported:
 | [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)                                                 |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercing-paxels)                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)                                             |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)                          |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets)                                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 
 Want support for a specific mod? Create an issue and submit a mod support request [here](https://github.com/nebuIr/Default-Dark-Mode/issues/new/choose).\
