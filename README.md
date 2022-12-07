@@ -17,11 +17,11 @@
     <a aria-label="github downloads" href="https://github.com/nebuIr/Default-Dark-Mode/releases">
         <img alt="" src="https://img.shields.io/github/downloads/nebuIr/Default-Dark-Mode/total?logo=github">
     </a>
+    <a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/default-dark-mode/versions">
+        <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/modrinth">
+    </a>
     <a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode/files">
         <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/curseforge">
-    </a>
-    <a aria-label="planet minecraft downloads" href="https://www.planetminecraft.com/texture-pack/default-dark-mode">
-        <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/planetminecraft">
     </a>
 </p>
 
