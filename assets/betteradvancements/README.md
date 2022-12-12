@@ -1,0 +1,3 @@
+# Better Advancements [![Downloads](http://cf.way2muchnoise.eu/short_272515_downloads.svg)](https://minecraft.curseforge.com/projects/272515) [![Build Status](https://app.travis-ci.com/way2muchnoise/BetterAdvancements.svg?branch=master)](https://travis-ci.com/github/way2muchnoise/BetterAdvancements)
+Successor to [BetterAchievements](https://github.com/way2muchnoise/BetterAchievements) for the new advancements system in minecraft 1.12+  
+Texture/resource pack makers please take look at the [wiki page](https://github.com/way2muchnoise/BetterAdvancements/wiki/Creating-texture-sheets-for-Better-Advancements) for info on how to make textures for Better Advancements compared to vanilla
