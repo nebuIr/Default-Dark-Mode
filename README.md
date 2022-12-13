@@ -62,6 +62,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)                                         |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic)                                           |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)                                   |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [EMI (Item and Recipe Viewer)](https://www.curseforge.com/minecraft/mc-mods/emi)                                |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Fabric](https://fabricmc.net/)                                                                                 |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)                                |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)                                                     |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
@@ -74,6 +75,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)                                                |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)                                                 |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercing-paxels)                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Roughly Enough Items (REI)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)                                             |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)                          |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets)                                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
