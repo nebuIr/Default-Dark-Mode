@@ -1,0 +1,25 @@
+{
+  "adorn:oak_drawer": "#A78754",
+  "adorn:spruce_drawer": { "bg": "#70522E", "fg": "#BCBCBC" },
+  "adorn:birch_drawer": "#9D8B59",
+  "adorn:jungle_drawer": "#A87B5B",
+  "adorn:acacia_drawer": "#B66136",
+  "adorn:dark_oak_drawer": { "bg": "#4D3117", "fg": "#BCBCBC" },
+  "adorn:mangrove_drawer": { "bg": "#753136", "fg": "#BCBCBC" },
+  "adorn:crimson_drawer": { "bg": "#863E5A", "fg": "#BCBCBC" },
+  "adorn:warped_drawer": { "bg": "#3A8E8C", "fg": "#BCBCBC" },
+
+  "adorn:terrestria/cypress_drawer": { "bg": "#8F8472" },
+  "adorn:terrestria/hemlock_drawer": { "bg": "#958262" },
+  "adorn:terrestria/japanese_maple_drawer": { "bg": "#9D6360" },
+  "adorn:terrestria/rainbow_eucalyptus_drawer": { "bg": "#2B579E", "fg": "#BCBCBC" },
+  "adorn:terrestria/redwood_drawer": { "bg": "#703C2A", "fg": "#BCBCBC" },
+  "adorn:terrestria/rubber_drawer": { "bg": "#91805C" },
+  "adorn:terrestria/sakura_drawer": { "bg": "#472E2C", "fg": "#BCBCBC" },
+  "adorn:terrestria/willow_drawer": { "bg": "#6D5931", "fg": "#BCBCBC" },
+
+  "adorn:traverse/fir_drawer": { "bg": "#8E5E3D" },
+
+  // The default color is the oak color
+  "adorn:default": "#A78754"
+}
