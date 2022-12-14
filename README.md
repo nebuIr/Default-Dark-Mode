@@ -77,6 +77,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)                                                 |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercing-paxels)                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Roughly Enough Items (REI)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)                         |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)                                             |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)                          |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets)                                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
