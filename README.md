@@ -66,6 +66,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)                                   |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [EMI (Item and Recipe Viewer)](https://www.curseforge.com/minecraft/mc-mods/emi)                                |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Expanded Delight](https://www.curseforge.com/minecraft/mc-mods/expanded-delight)                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage)                               |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Fabric](https://fabricmc.net/)                                                                                 |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)                                |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)                                           |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
