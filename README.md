@@ -55,6 +55,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [AE2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals) |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Bedrockify](https://www.curseforge.com/minecraft/mc-mods/bedrockify)                                           |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)                         |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)                                             |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)                                                     |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)                                                     |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                                   |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
