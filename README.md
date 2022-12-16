@@ -6,7 +6,7 @@
 
 <p align="center">
     <a aria-label="build" href="https://github.com/nebuIr/Default-Dark-Mode/actions">
-        <img src="https://img.shields.io/github/workflow/status/nebuIr/Default-Dark-Mode/%E2%9A%A1%20Optimize%20PNG%20files">
+        <img src="https://img.shields.io/github/actions/workflow/status/nebuIr/Default-Dark-Mode/optimize.yml?branch=%221.19%22">
     </a>
     <a aria-label="release" href="https://github.com/nebuIr/Default-Dark-Mode/releases/latest">
         <img alt="" src="https://img.shields.io/github/v/release/nebuIr/Default-Dark-Mode">
