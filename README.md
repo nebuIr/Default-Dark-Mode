@@ -84,6 +84,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercing-paxels)                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)                                             |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Roughly Enough Items (REI)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric)                            |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)                         |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Tom's Simple Storage](https://www.curseforge.com/minecraft/mc-mods/toms-storage)                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)                                             |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
