@@ -70,6 +70,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage)                               |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Fabric](https://fabricmc.net/)                                                                                 |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)                                |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Frame API](https://www.curseforge.com/minecraft/mc-mods/frame-api)                                             |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)                                           |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)                                                     |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [InmisAddon](https://www.curseforge.com/minecraft/mc-mods/inmisaddon)                                           |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
