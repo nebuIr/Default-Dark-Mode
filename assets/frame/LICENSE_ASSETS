@@ -1,0 +1,9 @@
+All Rights Reserved
+
+This license applies to any file in the following directories:
+- ./src/main/resources/assets/
+- ./common/src/main/resources/assets/
+- ./fabric/src/main/resources/assets/
+- ./forge/src/main/resources/assets/
+
+This license also applies to any file in a `model` package.
