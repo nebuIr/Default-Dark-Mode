@@ -72,6 +72,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)                                |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)                                           |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)                                                     |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [InmisAddon](https://www.curseforge.com/minecraft/mc-mods/inmisaddon)                                           |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)                              |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)                             |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)                                         |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
