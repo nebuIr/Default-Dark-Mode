@@ -57,34 +57,36 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)                         |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)                                             |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)                                   |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin)                           |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)                                                     |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |       ❌       |
 | [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)                                                     |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                                   |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |       ❌       |
 | [Creative Library](https://www.curseforge.com/minecraft/mc-mods/creative-library)                               |  ❌  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage)                                       |  ❌  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)                                         |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
-| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic)                                           |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic)                                           |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)                                   |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |       ❌       |
 | [EMI (Item and Recipe Viewer)](https://www.curseforge.com/minecraft/mc-mods/emi)                                |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Expanded Delight](https://www.curseforge.com/minecraft/mc-mods/expanded-delight)                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
-| [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage)                               |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage)                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Fabric](https://fabricmc.net/)                                                                                 |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |       ❌       |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)                                |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |       ❌       |
+| [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)                                |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Frame API](https://www.curseforge.com/minecraft/mc-mods/frame-api)                                             |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)                                           |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)                                                     |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [InmisAddon](https://www.curseforge.com/minecraft/mc-mods/inmisaddon)                                           |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)                              |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
-| [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)                             |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)                             |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)                                         |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |       ❌       |
 | [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)                                       |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)                                     |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |       ❌       |
-| [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload)                                 |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload)                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Let's do Wine!](https://www.curseforge.com/minecraft/mc-mods/lets-do-wine)                                     |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [LibGui](https://github.com/CottonMC/LibGui)                                                                    |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)                                                |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |       ❌       |
 | [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)                  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
-| [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)                                                 |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)                                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [owo-lib](https://www.curseforge.com/minecraft/mc-mods/owo-lib)                                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Paradise Lost](https://www.curseforge.com/minecraft/mc-mods/paradise-lost)                                     |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercing-paxels)                                 |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
