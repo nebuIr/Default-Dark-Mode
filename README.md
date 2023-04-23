@@ -57,6 +57,7 @@ The following mods are supported (versions for Fabric & Forge should both work):
 | [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)                         |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)                                             |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)                                   |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
+| [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin)                           |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)                                                     |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |       ❌       |
 | [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)                                                     |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |       ❌       |
 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                                   |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |       ❌       |
