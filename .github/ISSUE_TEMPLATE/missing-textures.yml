@@ -1,0 +1,52 @@
+name: Missing textures
+description: Report missing or outdated textures
+title: "[Missing textures] EXAMPLE TITLE"
+labels: ["❌ missing-textures"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please make sure that your issue has not already been reported in another issue.
+        
+        If you have multiple issues that you would like to report, please submit each issue **separately**.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Add any context or screenshots about the issue below.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: versions
+    attributes:
+      label: Game versions
+      description: What game versions are affected? Select all applicable game versions.
+      multiple: true
+      options:
+        - 1.19
+        - 1.18
+        - 1.17
+        - 1.16
+        - 1.15
+        - 1.14
+        - 1.13
+        - 1.12
+        - 1.11
+        - 1.10
+        - 1.9
+        - 1.8
+        - 1.7
+        - 1.6
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Link to the mod page
+      description: If your issue is related to a specific mod, please provide a URL to the mod page.
+      placeholder: "Example: https://modrinth.com/resourcepack/default-dark-mode"
+    validations:
+      required: false
