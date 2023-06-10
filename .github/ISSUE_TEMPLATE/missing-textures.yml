@@ -25,6 +25,7 @@ body:
       description: What game versions are affected? Select all applicable game versions.
       multiple: true
       options:
+        - 1.20
         - 1.19
         - 1.18
         - 1.17
