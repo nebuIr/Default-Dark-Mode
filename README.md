@@ -43,16 +43,16 @@ A list of supported mods can be found on the [wiki](https://github.com/nebuIr/De
 
 ## Screenshots
 
-![Loading Screen (Optifine Required)](https://i.imgur.com/x5Ujnte.png)
+![Loading Screen (Optifine Required)](https://i.imgur.com/2GKuNUE.png)
 
-![Title Screen](https://i.imgur.com/2decASu.png)
+![Title Screen](https://i.imgur.com/VFzY5qe.png)
 
-![Inventory (Creative)](https://i.imgur.com/Uhn2a7U.png)
+![Inventory (Creative)](https://i.imgur.com/7UPrk5X.png)
 
-![Crafting Table](https://i.imgur.com/9bcmUt0.png)
+![Crafting Table](https://i.imgur.com/3gA1GHt.png)
 
-![Barrel](https://i.imgur.com/dLCXsP3.png)
+![Chest](https://i.imgur.com/itTFT9w.png)
 
-![Blast Furnace](https://i.imgur.com/R56d1RV.png)
+![Furnace](https://i.imgur.com/yhpuzBc.png)
 
-![Anvil](https://i.imgur.com/wzQRLz7.png)
+![Anvil](https://i.imgur.com/xkHTdLG.png)
