@@ -53,6 +53,7 @@ body:
         - Fabric
         - Forge
         - Quilt
+        - Data Pack
         - Other
     validations:
       required: true
