@@ -21,8 +21,7 @@ void main() {
         discard;
     }
 	
-	if (vertexDistance > 800.0
-        && color.r > 0.2479 && color.r < 0.2481
+	if (color.r > 0.2479 && color.r < 0.2481
         && color.g > 0.2479 && color.g < 0.2481
         && color.b > 0.2479 && color.b < 0.2481) {
         color = vec4(0.6667, 0.6667, 0.6667, 1.0);
