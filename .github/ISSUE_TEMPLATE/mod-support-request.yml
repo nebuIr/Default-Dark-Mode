@@ -31,27 +31,25 @@ body:
     id: versions
     attributes:
       label: Game versions
-      description: What game versions should be supported? Select all applicable game versions.
+      description: What game versions should be supported? Select all applicable game versions. Only the latest 3 major versions are supported.
       multiple: true
       options:
         - "1.20"
         - "1.19"
         - "1.18"
-        - "1.17"
-        - "1.16"
-        - "1.12"
     validations:
       required: true
 
   - type: dropdown
     id: modloaders
     attributes:
-      label: Modloaders
-      description: What modloader is the mod using? Select all applicable modloaders.
+      label: Mod Loaders
+      description: What mod loader is the mod using? Select all applicable modloaders.
       multiple: true
       options:
         - Fabric
         - Forge
+        - NeoForge
         - Quilt
         - Data Pack
         - Other
