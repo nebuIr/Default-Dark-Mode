@@ -22,7 +22,7 @@ body:
     id: versions
     attributes:
       label: Game versions
-      description: What game versions are affected? Select all applicable game versions.
+      description: What game versions are affected? Select all applicable game versions. Active support for mods is limited to the latest 3 major versions.
       multiple: true
       options:
         - "1.20"
