@@ -1,0 +1,41 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "animal_feeding_trough:block/feeding_trough"
+            }
+        },
+        {
+            "when": {
+                "level": "1"
+            },
+            "apply": {
+                "model": "animal_feeding_trough:block/feeding_trough_content_1"
+            }
+        },
+        {
+            "when": {
+                "level": "2"
+            },
+            "apply": {
+                "model": "animal_feeding_trough:block/feeding_trough_content_2"
+            }
+        },
+        {
+            "when": {
+                "level": "3"
+            },
+            "apply": {
+                "model": "animal_feeding_trough:block/feeding_trough_content_3"
+            }
+        },
+        {
+            "when": {
+                "level": "4"
+            },
+            "apply": {
+                "model": "animal_feeding_trough:block/feeding_trough_content_4"
+            }
+        }
+    ]
+}

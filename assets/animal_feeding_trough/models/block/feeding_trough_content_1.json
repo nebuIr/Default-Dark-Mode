@@ -1,0 +1,26 @@
+{
+    "textures": {
+        "particle": "block/hay_block_top",
+        "inside": "block/hay_block_top"
+    },
+    "elements": [
+        {
+            "from": [
+                1,
+                1,
+                1
+            ],
+            "to": [
+                15,
+                2,
+                15
+            ],
+            "faces": {
+                "up": {
+                    "texture": "#inside",
+                    "cullface": "up"
+                }
+            }
+        }
+    ]
+}
