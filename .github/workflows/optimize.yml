@@ -44,7 +44,7 @@ jobs:
 
       - name: ⬆️ Commit and push changes
         if: ${{ steps.optimized-files.outputs.all_optimized_files }}
-        uses: swinton/commit@v2.x
+        uses: tohgarashi/verified-commit@v2.x
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
