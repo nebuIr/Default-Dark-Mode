@@ -5,23 +5,26 @@
 </p>
 
 <p align="center">
-    <a aria-label="build" href="https://github.com/nebuIr/Default-Dark-Mode/actions">
-        <img src="https://img.shields.io/github/actions/workflow/status/nebuIr/Default-Dark-Mode/optimize.yml?branch=%221.19%22">
+    <a aria-label="Build" href="https://github.com/nebuIr/Default-Dark-Mode/actions">
+        <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/nebuIr/Default-Dark-Mode/optimize.yml">
     </a>
-    <a aria-label="release" href="https://github.com/nebuIr/Default-Dark-Mode/releases/latest">
-        <img alt="" src="https://img.shields.io/github/v/release/nebuIr/Default-Dark-Mode">
+    <a aria-label="Release" href="https://github.com/nebuIr/Default-Dark-Mode/releases/latest">
+        <img alt="Release" src="https://img.shields.io/github/v/release/nebuIr/Default-Dark-Mode">
     </a>
-    <a aria-label="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-        <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-brightgreen.svg">
+    <a aria-label="License" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <img alt="License" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-brightgreen.svg">
     </a>
-    <a aria-label="github downloads" href="https://github.com/nebuIr/Default-Dark-Mode/releases">
-        <img alt="" src="https://img.shields.io/github/downloads/nebuIr/Default-Dark-Mode/total?logo=github">
+    <a aria-label="GitHub Downloads" href="https://github.com/nebuIr/Default-Dark-Mode/releases">
+        <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/nebuIr/Default-Dark-Mode/total?logo=github">
     </a>
-    <a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/default-dark-mode/versions">
-        <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/modrinth">
+    <a aria-label="Modrinth Downloads" href="https://modrinth.com/resourcepack/default-dark-mode/versions">
+        <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/6SLU7tS5?logo=modrinth&logoColor=fff">
     </a>
-    <a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode/files">
-        <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/curseforge">
+    <a aria-label="CurseForge Downloads" href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode/files">
+        <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/349116?logo=curseforge&logoColor=fff">
+    </a>
+    <a aria-label="Darkomizer Downloads" href="https://darkomizer.com">
+        <img alt="Darkomizer Downloads" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/darkomizer">
     </a>
 </p>
 
