@@ -44,7 +44,11 @@ jobs:
 
       - name: ⬆️ Commit and push changes
         if: ${{ steps.optimized-files.outputs.all_optimized_files }}
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: planetscale/ghcommit-action@v0.2.22
         with:
           commit_message: ':zap: Optimize PNG files'
+          repo: ${{ github.repository }}
+          branch: ${{ github.head_ref || github.ref_name }}
           file_pattern: ${{ steps.optimized-files.outputs.all_optimized_files }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
