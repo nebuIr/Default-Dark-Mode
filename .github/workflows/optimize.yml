@@ -8,13 +8,21 @@ on:
     paths:
       - '**/*.png'
 
+concurrency:
+  group: optimize-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
 jobs:
   build:
     name: ⚡ Optimize PNG files
     runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
     steps:
       - name: 🚚 Get latest code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -26,15 +34,18 @@ jobs:
 
       - name: 🧾 Get changed PNG files
         id: changed-files
-        uses: tj-actions/changed-files@v46
+        uses: tj-actions/changed-files@v47
         with:
-          since_last_remote_commit: "true"
           files: "**/*.png"
 
       - name: ⚡ Optimize PNG files
-        run: oxipng -sZ -o 3 -i 0 --ng ${{ steps.changed-files.outputs.all_changed_files }}
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          echo "Changed PNGs: ${{ steps.changed-files.outputs.all_changed_files }}"
+          echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | grep -v '^$' | tr '\n' '\0' | xargs -0 -r oxipng -o 3 -i off --strip safe
+          echo "Done."
 
-      - name : 🧾 Get optimized PNG files
+      - name: 🧾 Get optimized PNG files
         id: optimized-files
         run: |
           EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
@@ -44,10 +55,11 @@ jobs:
 
       - name: ⬆️ Commit and push changes
         if: ${{ steps.optimized-files.outputs.all_optimized_files }}
-        uses: swinton/commit@v2.x
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: planetscale/ghcommit-action@v0.2.22
         with:
-          files: ${{ steps.optimized-files.outputs.all_optimized_files }}
-          commit-message: ':zap: Optimize PNG files'
-          ref: ${{ github.ref }}
+          commit_message: ':zap: Optimize PNG files'
+          repo: ${{ github.repository }}
+          branch: ${{ github.head_ref || github.ref_name }}
+          file_pattern: "."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
