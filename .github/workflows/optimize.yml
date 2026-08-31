@@ -1,4 +1,4 @@
-﻿name: ⚡ Optimize PNG files
+name: ⚡ Optimize PNG files
 
 on:
   push:
@@ -43,6 +43,7 @@ jobs:
         run: |
           echo "Changed PNGs: ${{ steps.changed-files.outputs.all_changed_files }}"
           echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | grep -v '^$' | tr '\n' '\0' | xargs -0 -r oxipng -o 3 -i off --strip safe
+          echo "Done."
 
       - name: 🧾 Get optimized PNG files
         id: optimized-files
@@ -59,6 +60,6 @@ jobs:
           commit_message: ':zap: Optimize PNG files'
           repo: ${{ github.repository }}
           branch: ${{ github.head_ref || github.ref_name }}
-          file_pattern: ${{ steps.optimized-files.outputs.all_optimized_files }}
+          file_pattern: "."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
