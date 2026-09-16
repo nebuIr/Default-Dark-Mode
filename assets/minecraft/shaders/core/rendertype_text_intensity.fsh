@@ -1,8 +1,7 @@
-#version 330
+#version 150
 
 #moj_import <minecraft:fog.glsl>
 #moj_import <minecraft:dynamictransforms.glsl>
-#moj_import <minecraft:projection.glsl>
 
 uniform sampler2D Sampler0;
 
@@ -13,26 +12,16 @@ in vec2 texCoord0;
 
 out vec4 fragColor;
 
-const float VANILLA_TEXT_COLOR = float(0x404040);
-const float NEW_TEXT_COLOR = float(0xaaaaaa);
-
 void main() {
     vec4 color = texture(Sampler0, texCoord0).rrrr * vertexColor * ColorModulator;
     if (color.a < 0.1) {
         discard;
     }
 
-    if (ProjMat[2].w == 0.0) {
-        vec3 chn = floor(clamp(color.rgb, 0.0, 1.0) * 255.0 + vec3(0.5));
-        float col = chn.x * (256.0 * 256.0) + chn.y * 256.0 + chn.z;
-        if (col == VANILLA_TEXT_COLOR) {
-            color.rgb = vec3(
-                floor(NEW_TEXT_COLOR / (256.0 * 256.0)),
-                floor(mod(NEW_TEXT_COLOR, 256.0 * 256.0) / 256.0),
-                mod(NEW_TEXT_COLOR, 256.0)
-            ) / 255.0;
-        }
+    if (color.r > 0.2479 && color.r < 0.2481
+        && color.g > 0.2479 && color.g < 0.2481
+        && color.b > 0.2479 && color.b < 0.2481) {
+        color = vec4(0.6667, 0.6667, 0.6667, 1.0);
     }
-
     fragColor = apply_fog(color, sphericalVertexDistance, cylindricalVertexDistance, FogEnvironmentalStart, FogEnvironmentalEnd, FogRenderDistanceStart, FogRenderDistanceEnd, FogColor);
 }
