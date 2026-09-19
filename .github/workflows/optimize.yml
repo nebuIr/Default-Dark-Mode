@@ -42,7 +42,7 @@ jobs:
         if: steps.changed-files.outputs.any_changed == 'true'
         run: |
           echo "Changed PNGs: ${{ steps.changed-files.outputs.all_changed_files }}"
-          echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | grep -v '^$' | tr '\n' '\0' | xargs -0 -r oxipng -o 3 -i off --strip safe
+          echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | grep -v '^$' | tr '\n' '\0' | xargs -0 -r oxipng -szo3 --ng
           echo "Done."
 
       - name: 🧾 Get optimized PNG files
