@@ -42,8 +42,8 @@ vec4 calculateFinalColor(vec4 color) {
 }
 
 #ifdef IS_GUI
-    const float VANILLA_TEXT_COLOR = float(0x404040);
-    const float NEW_TEXT_COLOR = float(0xaaaaaa);
+const float VANILLA_TEXT_COLOR = float(0x404040);
+const float NEW_TEXT_COLOR = float(0xaaaaaa);
 #endif
 
 void main() {
@@ -59,7 +59,7 @@ void main() {
         discard;
     }
 
-#ifdef IS_GUI
+    #ifdef IS_GUI
     vec3 chn = floor(clamp(color.rgb, 0.0, 1.0) * 255.0 + vec3(0.5));
     float col = chn.x * (256.0 * 256.0) + chn.y * 256.0 + chn.z;
     if (col == VANILLA_TEXT_COLOR) {
@@ -69,7 +69,7 @@ void main() {
             mod(NEW_TEXT_COLOR, 256.0)
         ) / 255.0;
     }
-#endif
+    #endif
 
     #ifdef OIT_ALPHA_ONLY
     executeAlphaOnlyPhase(gl_FragCoord.z, color.a);
@@ -77,3 +77,4 @@ void main() {
     fragColor = calculateFinalColor(color);
     #endif
 }
+
