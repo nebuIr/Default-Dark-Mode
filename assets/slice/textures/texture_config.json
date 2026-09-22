@@ -1,0 +1,40 @@
+{
+  "offset_from_center": false,
+
+  "x_offset": 0,
+  "y_offset": 0,
+
+  "x_offset_hovered": 0,
+  "y_offset_hovered": 0,
+
+  "x_offset_active": 0,
+  "y_offset_active": 0,
+
+
+  "item_x_offset": -8,
+  "item_y_offset": -8,
+
+  "item_x_offset_hovered": -8,
+  "item_y_offset_hovered": -8,
+
+  "item_x_offset_active": -8,
+  "item_y_offset_active": -8,
+
+
+  "slot_number_x_offset": 0,
+  "slot_number_y_offset": 12,
+
+  "slot_number_x_offset_hovered": 0,
+  "slot_number_y_offset_hovered": 12,
+
+  "slot_number_x_offset_active": 0,
+  "slot_number_y_offset_active": 12,
+
+
+  // R G B A
+  "slot_number_color": "#848484ff",
+  "slot_number_color_hovered": "#CEBC47ff",
+  "slot_number_color_active": "#53BB4Eff",
+
+  "background_overlay_color": "#000000"
+}
